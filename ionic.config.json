@@ -1,5 +1,7 @@
 {
   "name": "myIonic",
-  "integrations": {},
+  "integrations": {
+    "cordova": {}
+  },
   "type": "angular"
 }
